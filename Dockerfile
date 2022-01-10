@@ -5,9 +5,9 @@ LABEL "com.github.actions.description"="Create an incremental tag under your con
 LABEL "com.github.actions.icon"="tag"
 LABEL "com.github.actions.color"="blue"
 
-LABEL "repository"="https://github.com/aurestic/incremental-tag"
-LABEL "homepage"="https://github.com/aurestic/incremental-tag"
-LABEL "maintainer"="Jose Zambudio <zamberjo@gmail.com>"
+LABEL "repository"="https://github.com/Klover-Fintech/incremental-tag"
+LABEL "homepage"="https://www.joinklover.com/"
+LABEL "maintainer"="Dmitri Rabinowitz <dmitri@joinklover.com>"
 
 RUN apk add coreutils
 
