@@ -81,3 +81,5 @@ else
     echo "5) Forcing tag push..."
     git push --tags -f
 fi
+
+echo "::set-output name=tag::$next_tag"
